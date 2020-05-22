@@ -1,3 +1,5 @@
 https://github.com/iddoeldor/frida-snippets
 https://docs.oracle.com/javase/8/docs/technotes/guides/jni/spec/functions.html
 https://android.googlesource.com/platform/libnativehelper/+/master/include_jni/jni.h#977
+https://github.com/chame1eon/jnitrace  //A Frida based tool to trace use of the JNI API in Android apps.
+https://github.com/iddoeldor/frida-snippets#reveal-native-methods  //frida-snippets
