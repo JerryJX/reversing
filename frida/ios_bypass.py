@@ -10,9 +10,8 @@ f = open(script, 'r')
 s = f.read()
 
 if __name__ == "__main__":
-    #PACKAGE_NAME = "com.happypointcard.order.enterprise"
-    PACKAGE_NAME = "com.kjbank.smart.public.pbanking"
-    APP_NAME = "해피오더"
+    #PACKAGE_NAME = "com.hxxxx"
+    APP_NAME = ""
     device = frida.get_usb_device(1000)
 
     pid = device.spawn([PACKAGE_NAME])
